@@ -4,12 +4,12 @@ I do lots of things, try to learn even more things, and I try to document and sh
 📚 [Study Archive](https://muhammadabdi42.github.io/study_archive/): I store my notes, solutions and codes for the books and courses I read in my study archive.
 
 ## 🔧 Projects
-- **Games** _(Also available on [itch.io](https://shamsofleningrad.itch.io/))_
+- **🎮 Games** _(Also available on [itch.io](https://shamsofleningrad.itch.io/))_
   - [Flappy Bird Replicate](https://github.com/MuhammadAbdi42/flappy_bird) (Written in Unity)
   - [Simple Memory Card Game](https://github.com/MuhammadAbdi42/simple_memory_card_game) (Written in Unity)
   - [Kitchen Chaos](https://github.com/MuhammadAbdi42/kitchen_chaos) (Written in Unity, part of the [CodeMonkey Course](https://www.youtube.com/watch?v=AmGSEH7QcDg))
  
-- **Console Apps**
+- **💻 Console Apps**
   - [Sudoku Solver](https://github.com/MuhammadAbdi42/sudoku_solver_with_backtracking_algorithm) (Written in C#)
 
 ---
