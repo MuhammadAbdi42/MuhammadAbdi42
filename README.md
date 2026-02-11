@@ -16,7 +16,7 @@ I do lots of things, try to learn even more things, and I try to document and sh
 
 
 <br></br>
-#### 🌐 Also Here:
+🌐 Also Here:
 <p align="left">
 <a href="https://linkedin.com/in/muhammadabdi42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadabdi42" height="15" width="20" /></a>
 <a href="https://kaggle.com/muhammadabdi42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadabdi42" height="15" width="20" /></a>
