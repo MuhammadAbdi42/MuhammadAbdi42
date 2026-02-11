@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad
 I do lots of things, try to learn even more things, and I try to document and share them.
 
-📚 [Study Archive](https://muhammadabdi42.github.io/study_archive/): I store my notes, solutions and codes for the books and courses I read in my study archive.
+📚 [Study Archive](https://muhammadabdi42.github.io/study_archive/): I store my notes, solutions and codes for my books and courses in my study archive.
 
 📝 [Gists](https://gist.github.com/MuhammadAbdi42/): My code snippets and configurations.
 
