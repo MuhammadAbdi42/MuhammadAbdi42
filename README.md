@@ -14,12 +14,12 @@ I do lots of things, try to learn even more things, and I try to document and sh
 - **💻 Console Apps**
   - [Sudoku Solver](https://github.com/MuhammadAbdi42/sudoku_solver_with_backtracking_algorithm) (Written in C#)
 
-
 <br></br>
-🌐 Also Here:
 <p align="left">
-<a href="https://linkedin.com/in/muhammadabdi42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadabdi42" height="15" width="20" /></a>
-<a href="https://kaggle.com/muhammadabdi42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadabdi42" height="15" width="20" /></a>
-<a href="https://medium.com/@muhammadnotes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadnotes" height="15" width="20" /></a>
-<a href="https://www.leetcode.com/muhammadabdi42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammadabdi42" height="15" width="20" /></a>
+<a href="https://www.linkedin.com/in/muhammadabdi42/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.researchgate.net/profile/Muhammad-Abdi-3" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"></a>
+<a href="https://medium.com/@muhammadnotes" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://kaggle.com/muhammadabdi42" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+<a href="https://shamsofleningrad.itch.io" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Itch.io-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
+<a href="https://leetcode.com/u/MuhmmadAbdi42/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
