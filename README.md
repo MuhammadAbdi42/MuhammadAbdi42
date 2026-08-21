@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Muhammad
 I do lots of things, try to learn even more things, and I try to document and share them.
 
-📚 [Study Archive](https://muhammadabdi42.github.io/study_archive/): I store my notes, solutions and codes for my books and courses in my study archive.
+📚 [Study Archive](https://abdiflows.github.io/study_archive/): I store my notes, solutions and codes for my books and courses in my study archive.
 
-📝 [Gists](https://gist.github.com/MuhammadAbdi42/): My code snippets and configurations.
+📝 [Gists](https://gist.github.com/abdiflows/): My code snippets and configurations.
 
 ## 🔧 Projects
 - **🎮 Games** _(Also available on [itch.io](https://shamsofleningrad.itch.io/))_
-  - [Flappy Bird Replicate](https://github.com/MuhammadAbdi42/flappy_bird) (Written in Unity)
-  - [Simple Memory Card Game](https://github.com/MuhammadAbdi42/simple_memory_card_game) (Written in Unity)
-  - [Kitchen Chaos](https://github.com/MuhammadAbdi42/kitchen_chaos) (Written in Unity, part of the [CodeMonkey Course](https://www.youtube.com/watch?v=AmGSEH7QcDg))
+  - [Flappy Bird Replicate](https://github.com/abdiflows/flappy_bird) (Written in Unity)
+  - [Simple Memory Card Game](https://github.com/abdiflows/simple_memory_card_game) (Written in Unity)
+  - [Kitchen Chaos](https://github.com/abdiflows/kitchen_chaos) (Written in Unity, part of the [CodeMonkey Course](https://www.youtube.com/watch?v=AmGSEH7QcDg))
  
 - **💻 Console Apps**
-  - [Sudoku Solver](https://github.com/MuhammadAbdi42/sudoku_solver_with_backtracking_algorithm) (Written in C#)
+  - [Sudoku Solver](https://github.com/abdiflows/sudoku_solver_with_backtracking_algorithm) (Written in C#)
 
 <br></br>
 <p align="left">
